@@ -10,4 +10,4 @@ What is your goal? What do you want to do with your application? Browse my sampl
 
 About that project - Code:
 
-This project uses matlabcode, including code of various toolboxes (machine learning, signal processing,...). It is intended to present a guideline for implementation of your own wearable sensor data applications. If needed, you can also find sample data on for use here: http://motionsensorcomputing.com/index.php/source-code/
+This project uses matlabcode, including code of various toolboxes (machine learning, signal processing,...). It is intended to present a guideline for implementation of your own wearable sensor data applications. If needed, you can also find sample data for use and re-implementation here: http://motionsensorcomputing.com/index.php/source-code/
