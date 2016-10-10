@@ -15,6 +15,8 @@
 % 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+sfSens = 500;
+
 %% form groups of jumps with and without point deduction
 
 detA1Fault = cell(0,1);detA1NoFault = cell(0,1);iterA1F = 1;iterA1NF = 1;
