@@ -5,7 +5,6 @@ To load all necessary input files either:
 >> load('[your local path]\inputFiles\fileInfoTrainingDB.mat')
 >> load('[your local path]\inputFiles\trFilesAccAll_A.mat')
 >> load('[your local path]\inputFiles\trFilesAccAll_L.mat')
->> load('[your local path]\inputFiles\trFilesAccAll_A.mat')
 >> load('[your local path]\inputFiles\trFilesBodyPAll_A.mat')
 >> load('[your local path]\inputFiles\trFilesBodyPAll_L.mat')
 >> load('[your local path]\inputFiles\trFilesGyrAll_A.mat')
@@ -21,3 +20,6 @@ To load all necessary input files either:
 >> load('[your local path]\inputFiles\trFilesPosWarpedAll_A.mat')
 >> load('[your local path]\inputFiles\trFilesPosWarpedAll_L.mat')
 >> load('[your local path]\inputFiles\trFilesSensDispl.mat')
+
+Download the files here:
+www.motionsensorcomputing.com/inputFiles.zip
