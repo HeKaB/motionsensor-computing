@@ -1,0 +1,23 @@
+To load all necessary input files either:
+1) drag and drop all of them individually into your matlab command window
+2) load them by copying the following command lines into your sampleRun.m file and adding the local path of the files on your computer
+
+>> load('[your local path]\inputFiles\fileInfoTrainingDB.mat')
+>> load('[your local path]\inputFiles\trFilesAccAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesAccAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesAccAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesBodyPAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesBodyPAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesGyrAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesGyrAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesMagAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesMagAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesOrisAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesOrisAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesOrisWarpedAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesOrisWarpedAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesPosAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesPosAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesPosWarpedAll_A.mat')
+>> load('[your local path]\inputFiles\trFilesPosWarpedAll_L.mat')
+>> load('[your local path]\inputFiles\trFilesSensDispl.mat')
