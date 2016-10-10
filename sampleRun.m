@@ -13,6 +13,7 @@
 % trFilesOrisWarpedAll: cell file of all processed sensor orientations for phase A and L
 % trFilesPosWarpedAll: cell file of all processed joint positions for phase A and L
 % 
+% load all necessary input .mat files before running this file
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 sfSens = 500;
